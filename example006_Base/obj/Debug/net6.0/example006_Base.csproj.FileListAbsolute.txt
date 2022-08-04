@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example006_Base\bin\Debug\net6.0\example006_Base.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example006_Base\bin\Debug\net6.0\example006_Base.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example006_Base\bin\Debug\net6.0\example006_Base.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example006_Base\bin\Debug\net6.0\example006_Base.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example006_Base\bin\Debug\net6.0\example006_Base.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example006_Base\obj\Debug\net6.0\example006_Base.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example006_Base\obj\Debug\net6.0\example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example006_Base\obj\Debug\net6.0\example006_Base.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example006_Base\obj\Debug\net6.0\example006_Base.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example006_Base\obj\Debug\net6.0\example006_Base.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example006_Base\obj\Debug\net6.0\example006_Base.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example006_Base\obj\Debug\net6.0\refint\example006_Base.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example006_Base\obj\Debug\net6.0\example006_Base.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example006_Base\obj\Debug\net6.0\example006_Base.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example006_Base\obj\Debug\net6.0\ref\example006_Base.dll
