@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example005_ifelse\bin\Debug\net6.0\example005_ifelse.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example005_ifelse\bin\Debug\net6.0\example005_ifelse.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example005_ifelse\bin\Debug\net6.0\example005_ifelse.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example005_ifelse\bin\Debug\net6.0\example005_ifelse.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example005_ifelse\bin\Debug\net6.0\example005_ifelse.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example005_ifelse\obj\Debug\net6.0\example005_ifelse.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example005_ifelse\obj\Debug\net6.0\example005_ifelse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example005_ifelse\obj\Debug\net6.0\example005_ifelse.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example005_ifelse\obj\Debug\net6.0\example005_ifelse.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example005_ifelse\obj\Debug\net6.0\example005_ifelse.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example005_ifelse\obj\Debug\net6.0\example005_ifelse.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example005_ifelse\obj\Debug\net6.0\refint\example005_ifelse.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example005_ifelse\obj\Debug\net6.0\example005_ifelse.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example005_ifelse\obj\Debug\net6.0\example005_ifelse.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Урок 4.1 - знакомство с C sharp (C#)\examples\example005_ifelse\obj\Debug\net6.0\ref\example005_ifelse.dll
