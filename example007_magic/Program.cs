@@ -28,12 +28,7 @@ while(count<10000)
    if(What==1) {x=(x+xb)/2;y=(y+yb)/2;}
    if(What==2) {x=(x+xc)/2;y=(y+yc)/2;}
 
-/*Console.Write(x);
-Console.Write("+");
-Console.Write(y);
-Console.Write("Random=");
-Console.Write(What);
-Console.WriteLine();*/
+
 Console.SetCursorPosition(x, y);
 Console.WriteLine("+");
 count++;
